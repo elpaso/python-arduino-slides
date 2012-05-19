@@ -124,10 +124,20 @@ ASCII snake
 Firmata snake
 =============
 
+The firmata protocol
+
+http://firmata.org/wiki/Main_Page
+
 pyfirmata to the rescue
+
+https://bitbucket.org/tino/pyfirmata/src
 
 .. firmata example
 
+Other libraries
+===============
+
+.. pip search arduino
 
 
 
